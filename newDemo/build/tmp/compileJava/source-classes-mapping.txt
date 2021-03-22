@@ -1,0 +1,8 @@
+model/Customer.java
+ model.Customer
+seveice/CustomerList.java
+ seveice.CustomerList
+seveice/CustomerService.java
+ seveice.CustomerService
+controller/CustomerServlet.java
+ controller.CustomerServlet
